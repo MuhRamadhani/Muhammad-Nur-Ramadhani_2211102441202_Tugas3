@@ -1,6 +1,9 @@
-Muhammad Nur Ramadhani
-2211102441202
-S1 - Teknik Informatika
+Nama  : Muhammad Nur Ramadhani
 
-Praktikum Pemograman Perangkat Bergerak
-Tugas Minggu ke -3
+NIM   : 2211102441202
+
+Prodi : S1 - Teknik Informatika
+
+
+Mata Kuliah : Pemograman Perangkat Bergerak
+## Tugas 3
